@@ -1,7 +1,7 @@
 ninja-svg-sprites
 =================
 
-Generate svg sprites with a trick layers
+Generate svg sprites by selecting groups by id from css
 
 
 See *example/index.html*
