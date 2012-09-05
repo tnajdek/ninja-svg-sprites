@@ -1,0 +1,3 @@
+[submodule "svg-scour"]
+	path = svg-scour
+	url = https://github.com/nhooey/svg-scour.git
